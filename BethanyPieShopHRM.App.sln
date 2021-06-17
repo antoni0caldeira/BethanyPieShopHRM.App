@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanyPieShopHRM.App", "BethanyPieShopHRM.App\BethanyPieShopHRM.App.csproj", "{CCF38889-60CA-4DB8-B85F-D85D4DB858CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{43AFF449-C2B6-45CB-AB6E-FB9DF21E269F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{43AFF449-C2B6-45CB-AB6E-FB9DF21E269F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
